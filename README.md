@@ -20,6 +20,6 @@ Welcome to the **Real Estate Website**! 🌍 This is a **responsive web site ** 
 - **CSS3**: For styling, including responsive layouts.
 - **JavaScript**: For interactivity, dynamic searching, and filtering.
 
-![website_realstate ](rstatee)
-![website_realstate ](rstate)
+![website_realstate ](rstate.png)
+![website_realstate ](rstatee.png)
 
